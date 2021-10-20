@@ -22,8 +22,8 @@ const changeAlgo = (algo) => {
 function App() {
   const [nodes, setNodes] = useState([]);
   let grid = [];
-  let START_ROW = 25;
-  let START_COL = 40;
+  let START_ROW = 15;
+  let START_COL = 30;
   const FINISH_ROW = 1;
   const FINISH_COL = 1;
 
